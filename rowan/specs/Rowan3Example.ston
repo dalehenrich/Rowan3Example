@@ -1,0 +1,13 @@
+RwLoadSpecificationV2 {
+	#specName : 'Rowan3Example',
+	#projectName : 'Rowan3Example',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core',
+		'Core'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#comment : 'I am an example project'
+}
