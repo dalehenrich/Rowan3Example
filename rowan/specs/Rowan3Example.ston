@@ -3,7 +3,6 @@ RwLoadSpecificationV2 {
 	#projectName : 'Rowan3Example',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'Core',
 		'Core'
 	],
 	#customConditionalAttributes : [
